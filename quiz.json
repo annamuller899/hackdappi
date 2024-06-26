@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of American pop music.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who sang 'Like a Virgin'?",
+      "answers": ["Madonna", "Beyoncé", "Rihanna"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Lady Gaga's real name?",
+      "answers": ["Stefani", "Ariana", "Taylor"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which pop star is known as the 'Material Girl'?",
+      "answers": ["Madonna", "Britney", "Cher"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the 'King of Pop'?",
+      "answers": ["Michael", "Elvis", "Prince"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who released the album '1989'?",
+      "answers": ["Taylor", "Selena", "Katy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which artist had a hit with 'Firework'?",
+      "answers": ["Katy", "Adele", "Rihanna"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sings 'Bad Guy'?",
+      "answers": ["Billie", "Lizzo", "Dua"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What band was Justin Timberlake in?",
+      "answers": ["NSYNC", "BSB", "2NE1"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is known for the song 'Umbrella'?",
+      "answers": ["Rihanna", "Shakira", "Beyoncé"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which pop star sang 'Baby One More Time'?",
+      "answers": ["Britney", "Ariana", "Selena"],
       "correctAnswerIndex": 0
     }
   ]
